@@ -1,0 +1,78 @@
+{
+  "project_info": {
+    "project_number": "1030737565853",
+    "project_id": "plantrip-8204e",
+    "storage_bucket": "plantrip-8204e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030737565853:android:200a3dba82fd93c1c55c74",
+        "android_client_info": {
+          "package_name": "com.erhacorpdotcom.plantripapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1030737565853-1k9isgcqgujhpebe4j04sc7fgrs6s29a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.erhacorpdotcom.plantripapp",
+            "certificate_hash": "5732637386c75587cc0f4846e9bb279c7f40ec6e"
+          }
+        },
+        {
+          "client_id": "1030737565853-591vj2ldaui6i0gnripoqpib3vle1uo3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.erhacorpdotcom.plantripapp",
+            "certificate_hash": "967f73a4f7d019b4c7e7b3084d97076c911750fb"
+          }
+        },
+        {
+          "client_id": "1030737565853-g56c61ehfg6eh588ooed8462q27d78ue.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.erhacorpdotcom.plantripapp",
+            "certificate_hash": "275fc50753e0a98c6dae5079a2f5c4e872296f72"
+          }
+        },
+        {
+          "client_id": "1030737565853-tmsaaau0nrauopudll25kiki378b0e24.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.erhacorpdotcom.plantripapp",
+            "certificate_hash": "3a73f69683d5ae872a56f079517211d4033b17e9"
+          }
+        },
+        {
+          "client_id": "1030737565853-iidl7urn5o8r0dt9ach242l0h6pfn76c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDada4jTjKk2giDYIbu15G5FO5tR3XgIqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1030737565853-iidl7urn5o8r0dt9ach242l0h6pfn76c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1030737565853-joadgsa0hghpi3o25mh9slro1frhf15i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.erhacorpdotcom.plantripapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

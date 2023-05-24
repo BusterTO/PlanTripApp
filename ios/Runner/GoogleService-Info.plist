@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1030737565853-a81i6ha39a85jj2otaobkh7a2mpddgmi.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1030737565853-a81i6ha39a85jj2otaobkh7a2mpddgmi</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1030737565853-1k9isgcqgujhpebe4j04sc7fgrs6s29a.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCU8axDFPHhZYldsIm9ZnaiF-2C3DLICqI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1030737565853</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.erhacorpdotcom.plantripapp</string>
+	<key>PROJECT_ID</key>
+	<string>plantrip-8204e</string>
+	<key>STORAGE_BUCKET</key>
+	<string>plantrip-8204e.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1030737565853:ios:0d174f2430e1b10dc55c74</string>
+</dict>
+</plist>
